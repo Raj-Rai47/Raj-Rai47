@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amrit Raj Rai
-- 👀 I’m interested in Development of softwares or sites
+- 👀 I’m interested in cybersecurity and pentesting
 - 🌱 I’m currently learning python
 - 📫 You can contact me through my mail - amritrajrai942612@gmail.com
 - 😄 Pronouns: HE
